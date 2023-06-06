@@ -1,3 +1,9 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jerlysonsantos/count.svg" />
+</p>
+
+
 # Jerlyson Santos - Desenvolvedor FullStack
 
 Olá, me chamo Jerlyson Santos, um Desenvolvedor FullStack com experiência de 3 anos e com muita vontade de aprender e ensinar.
@@ -44,3 +50,6 @@ Fique à vontade para me adicionar e enviar uma mensagem. Estou sempre interessa
 ## Projetos
 
 Os projetos que possuo nos repositórios são um pouco das coisas que aprendo, ideias que me surgem e alguns são testes que fiz para empresas.
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jerlysonsantos&show_icons=true&theme=dracula)
