@@ -12,7 +12,7 @@ Olá, me chamo Jerlyson Santos, um Desenvolvedor FullStack com experiência de 3
 
 - Nome: Jerlyson Santos
 - Atuação: Desenvolvedor FullStack
-- Idade: 22 anos
+- Idade: 23 anos
 - Formação: Técnico em Informática para WEB pelo IFAL
 - Graduação: Bacharelado em Sistemas de Informação (em andamento)
 
@@ -27,6 +27,7 @@ Olá, me chamo Jerlyson Santos, um Desenvolvedor FullStack com experiência de 3
 - Python
 - Mysql
 - Docker
+- Dotnet
 - Redis
 
 ## Tecnologias em aprendizado ou que conheço pouco
