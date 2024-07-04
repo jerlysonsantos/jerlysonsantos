@@ -6,7 +6,7 @@
 
 # Jerlyson Santos - Desenvolvedor FullStack
 
-Olá, me chamo Jerlyson Santos, um Desenvolvedor FullStack com experiência de 3 anos e com muita vontade de aprender e ensinar.
+Olá, me chamo Jerlyson Santos, um Desenvolvedor FullStack com experiência de 4 anos com muita vontade de aprender e ensinar.
 
 ## Sobre mim
 
